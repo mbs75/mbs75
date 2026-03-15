@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="banner.jpg" alt="Banner de Marina" width="100%">
+</p>
 # ¡Buenas! Soy Marina 👋
 
 <img src="https://img.shields.io/badge/Student-DAW%20(Web%20App%20Dev)-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="DAW Student Badge">
