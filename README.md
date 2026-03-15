@@ -15,19 +15,19 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="banner.jpg" alt="Banner de Marina" width="100%">
 </p>
-# ¡Buenas! Soy Marina 👋
+# ¡Buenas! Soy Marina 
 
 <img src="https://img.shields.io/badge/Student-DAW%20(Web%20App%20Dev)-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="DAW Student Badge">
 
-## 💻 Sobre mí
+## Sobre mí
 
-¡Un placer saludarte! Soy una estudiante de **primer curso de Desarrollo de Aplicaciones Web (DAW)**. Me fascina la tecnología y decidí adentrarme en este mundo motivada por sus excelentes perspectivas laborales y mi deseo de constante aprendizaje.
+Soy una estudiante de **primer curso de Desarrollo de Aplicaciones Web (DAW)**. Me fascina la tecnología y decidí adentrarme en este mundo motivada por sus excelentes perspectivas laborales y mi deseo de constante aprendizaje.
 
 Mi objetivo a largo plazo es fusionar el desarrollo web con el mundo del **Big Data y la Inteligencia Artificial**, un camino que planeo iniciar cursando la especialización de mi futuro Grado en Economía. Mientras tanto, estoy construyendo una base técnica sólida.
 
 ---
 
-## 🌱 Mi Stack Tecnológico Actual (En Aprendizaje)
+## Mi Stack Tecnológico Actual (En Aprendizaje)
 
 Aquí puedes ver las tecnologías con las que estoy trabajando día a día en clase:
 
@@ -49,7 +49,8 @@ Aquí puedes ver las tecnologías con las que estoy trabajando día a día en cl
   <img src="https://img.shields.io/badge/XML%20%26%20XSD-6E6E6E?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
 </p>
 
-### 🎯 Mis Próximos Pasos
+### Mis Próximos Pasos
+
 
 * [ ] Profundizar en programación orientada a objetos con Java.
 * [ ] Modelar bases de datos complejas con SQL.
@@ -60,12 +61,12 @@ Aquí puedes ver las tecnologías con las que estoy trabajando día a día en cl
 
 ---
 
-## 🎨 Fuera de la Pantalla: Crear es mi Pasión
+##  Fuera de la Pantalla: Crear es mi Pasión
 
 Cuando no estoy escribiendo código o diseñando bases de datos, me encontrarás alimentando mi lado creativo. Me apasiona el proceso de **elaborar y dar forma a nuevas ideas**.
 
-* 🥘 **Cocina & Sabores:** Me encanta preparar **comida mediterránea**, de esa que reconforta el alma, aunque siempre dejo espacio para la aventura **probando recetas internacionales**. Para mí, explorar una nueva especia o técnica es como aprender una nueva librería: ¡abre un mundo de posibilidades!
-* ✏️ **El Dibujo:** Estoy retomando las bases del dibujo a lápiz. Es mi forma favorita de practicar la paciencia, el detalle y la observación fuera del entorno digital.
+*  **Cocina & Sabores:** Me encanta preparar **comida mediterránea**, de esa que reconforta el alma, aunque siempre dejo espacio para la aventura **probando recetas internacionales**. Para mí, explorar una nueva especia o técnica es como aprender una nueva librería: ¡abre un mundo de posibilidades!
+*  **El Dibujo:** Estoy retomando las bases del dibujo a lápiz. Es mi forma favorita de practicar la paciencia, el detalle y la observación fuera del entorno digital.
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpwaG5yZzR6NHR6bnR6bnR6bnR6bnR6bnR6bnR6bnR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKLPeS7X0ZJ5VIs/giphy.gif" alt="Mediterranean Cozy Cooking" width="250"/>
@@ -74,8 +75,7 @@ Cuando no estoy escribiendo código o diseñando bases de datos, me encontrarás
 ---
 ---
 
-## 📊 Estadísticas de GitHub
-Un pequeño vistazo a mi actividad en esta plataforma:
+##  Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mbs75&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -84,7 +84,7 @@ Un pequeño vistazo a mi actividad en esta plataforma:
 
 ---
 
-## 📫 ¿Dónde Encontrarme?
+## ¿Dónde Encontrarme?
 
 Para cualquier colaboración o simplemente para hablar sobre código, IA o repostería:
 
