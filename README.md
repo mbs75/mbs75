@@ -86,8 +86,5 @@ Cuando no estoy escribiendo código o diseñando bases de datos, me encontrarás
 
 ## ¿Dónde Encontrarme?
 
-Para cualquier colaboración o simplemente para hablar sobre código, IA o repostería:
-
 * **GitHub:** Estás en el lugar correcto. ¡Échale un ojo a mis repositorios!
 
-*(Nota: Como pediste, solo se incluye GitHub. Si en el futuro tienes LinkedIn o Portfolio, ¡puedes añadirlos aquí!)*
